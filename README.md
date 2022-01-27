@@ -5,6 +5,9 @@
 * CSS
 * Javascript
 * Node.JS
+* Axios
+* Express.js
+* MongoDB
 
 ## Steps
 * Structuring with HTML
@@ -16,3 +19,7 @@ npm init -y
 npm i express ejs mongoose
 * Install the nodemon
 npm i --save-dev nodemon
+
+## Links
+Axios [https://www.npmjs.com/package/axios]
+MongoDB Community [https://www.mongodb.com/try/download/community]
