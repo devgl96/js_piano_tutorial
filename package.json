@@ -4,17 +4,25 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": "nodemon server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devgl96/js_piano_tutorial.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "George Lucas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devgl96/js_piano_tutorial/issues"
   },
-  "homepage": "https://github.com/devgl96/js_piano_tutorial#readme"
+  "homepage": "https://github.com/devgl96/js_piano_tutorial#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
