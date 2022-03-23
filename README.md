@@ -1,5 +1,5 @@
 # JS Piano + Recorder 
-
+![Snapshot from JS Piano + Recorder Project](./design/js_piano_tutorial.jpg/)
 ## Technologies
 * HTML
 * CSS
